@@ -22,6 +22,7 @@ before_script:
 script:
 - npm run test
 - npm run functional
+- npm run functional:report
 - npm run test:saucelabs
 notifications:
   slack:
