@@ -25,6 +25,7 @@ script:
 - npm run test:saucelabs
 - npm run test
 - npm run functional
+- npm run build:prod
 - sonar-scanner
 notifications:
   slack:
