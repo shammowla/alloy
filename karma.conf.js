@@ -53,7 +53,7 @@ module.exports = config => {
     // test results reporter to use
     // possible values: "dots", "progress"
     // available reporters: https://npmjs.org/browse/keyword/karma-reporter
-    reporters: ["spec", "allure"],
+    reporters: ["spec"],
 
     allureReport: {
       reportDir: "test/allure/allure-results/", // By default files will be save in the base dir
