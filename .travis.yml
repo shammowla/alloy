@@ -32,6 +32,8 @@ before_script:
 - fluxbox >/dev/null 2>&1 &
 
 script:
+- npm install
+- npm run build  
 - npm run test:saucelabs
 - npm run test
 - npm run test:report
