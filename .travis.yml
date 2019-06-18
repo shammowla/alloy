@@ -44,6 +44,7 @@ deploy:
   provider: surge
   project: ./test/allure/allure-report/
   on: feature/allureTravisCI
+  domain: alloydashboard.surge.sh
 
 notifications:
   slack:
