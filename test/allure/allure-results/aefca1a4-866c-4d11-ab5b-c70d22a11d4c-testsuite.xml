@@ -1,0 +1,119 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1560886655976' stop='1560886656979'>
+    <name>[HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)] networkStrategyFactory window</name>
+    <title>[HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)] networkStrategyFactory window</title>
+    <test-cases>
+        <test-case start='1560886655976' status='pending' stop='1560886655976'>
+            <name>handles error response code 500</name>
+            <title>handles error response code 500</title>
+            <labels>
+                <label name='host' value='HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>This test was ignored</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1560886655978' status='pending' stop='1560886655978'>
+            <name>handles error response code 403</name>
+            <title>handles error response code 403</title>
+            <labels>
+                <label name='host' value='HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>This test was ignored</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1560886655979' status='pending' stop='1560886655979'>
+            <name>handles error response code 301</name>
+            <title>handles error response code 301</title>
+            <labels>
+                <label name='host' value='HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>This test was ignored</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1560886655981' status='pending' stop='1560886655981'>
+            <name>handles successful response code 204 (no content)</name>
+            <title>handles successful response code 204 (no content)</title>
+            <labels>
+                <label name='host' value='HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>This test was ignored</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1560886655984' status='pending' stop='1560886655984'>
+            <name>handles error response code 400</name>
+            <title>handles error response code 400</title>
+            <labels>
+                <label name='host' value='HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>This test was ignored</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1560886655986' status='pending' stop='1560886655986'>
+            <name>handles successful response code 200</name>
+            <title>handles successful response code 200</title>
+            <labels>
+                <label name='host' value='HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>This test was ignored</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1560886655988' status='pending' stop='1560886655988'>
+            <name>handles a dropped connection</name>
+            <title>handles a dropped connection</title>
+            <labels>
+                <label name='host' value='HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>This test was ignored</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+        <test-case start='1560886655991' status='pending' stop='1560886655991'>
+            <name>sends a beacon</name>
+            <title>sends a beacon</title>
+            <labels>
+                <label name='host' value='HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>This test was ignored</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

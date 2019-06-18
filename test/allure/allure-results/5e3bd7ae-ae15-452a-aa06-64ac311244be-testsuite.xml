@@ -1,0 +1,107 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1560886656019' stop='1560886656946'>
+    <name>[HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)] Context::deviceFactory</name>
+    <title>[HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)] Context::deviceFactory</title>
+    <test-cases>
+        <test-case start='1560886656019' status='passed' stop='1560886656019'>
+            <name>handles matchMedia queries: landscape</name>
+            <title>handles matchMedia queries: landscape</title>
+            <labels>
+                <label name='host' value='HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1560886656019' status='passed' stop='1560886656020'>
+            <name>handles a bad screen orientation: null</name>
+            <title>handles a bad screen orientation: null</title>
+            <labels>
+                <label name='host' value='HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1560886656021' status='passed' stop='1560886656021'>
+            <name>handles a bad screen orientation: {}</name>
+            <title>handles a bad screen orientation: {}</title>
+            <labels>
+                <label name='host' value='HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1560886656022' status='passed' stop='1560886656022'>
+            <name>handles matchMedia queries: portrait</name>
+            <title>handles matchMedia queries: portrait</title>
+            <labels>
+                <label name='host' value='HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1560886656022' status='passed' stop='1560886656023'>
+            <name>handles portrait orientation type</name>
+            <title>handles portrait orientation type</title>
+            <labels>
+                <label name='host' value='HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1560886656027' status='passed' stop='1560886656027'>
+            <name>handles a bad screen orientation: {"type":null}</name>
+            <title>handles a bad screen orientation: {"type":null}</title>
+            <labels>
+                <label name='host' value='HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1560886656027' status='passed' stop='1560886656027'>
+            <name>handles a bad screen orientation: undefined</name>
+            <title>handles a bad screen orientation: undefined</title>
+            <labels>
+                <label name='host' value='HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1560886656028' status='passed' stop='1560886656028'>
+            <name>handles a bad screen orientation: {"type":"a-b"}</name>
+            <title>handles a bad screen orientation: {"type":"a-b"}</title>
+            <labels>
+                <label name='host' value='HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1560886656027' status='passed' stop='1560886656028'>
+            <name>handles a bad screen orientation: {"type":"foo"}</name>
+            <title>handles a bad screen orientation: {"type":"foo"}</title>
+            <labels>
+                <label name='host' value='HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1560886656028' status='passed' stop='1560886656028'>
+            <name>handles the happy path</name>
+            <title>handles the happy path</title>
+            <labels>
+                <label name='host' value='HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

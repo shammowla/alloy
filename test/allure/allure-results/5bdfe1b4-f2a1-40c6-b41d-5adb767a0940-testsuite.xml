@@ -1,0 +1,137 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1560886656074' stop='1560886656071'>
+    <name>[HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)] createConfig</name>
+    <title>[HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)] createConfig</title>
+    <test-cases>
+        <test-case start='1560886656074' status='passed' stop='1560886656075'>
+            <name>supports adding missing object hierarchies through string dot notation</name>
+            <title>supports adding missing object hierarchies through string dot notation</title>
+            <labels>
+                <label name='host' value='HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1560886656075' status='passed' stop='1560886656075'>
+            <name>supports being instantiated with a config</name>
+            <title>supports being instantiated with a config</title>
+            <labels>
+                <label name='host' value='HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1560886656075' status='passed' stop='1560886656075'>
+            <name>supports extending the config with a new config</name>
+            <title>supports extending the config with a new config</title>
+            <labels>
+                <label name='host' value='HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1560886656079' status='passed' stop='1560886656079'>
+            <name>supports getting a value assigned to a key</name>
+            <title>supports getting a value assigned to a key</title>
+            <labels>
+                <label name='host' value='HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1560886656078' status='passed' stop='1560886656079'>
+            <name>supports returning top level key-set</name>
+            <title>supports returning top level key-set</title>
+            <labels>
+                <label name='host' value='HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1560886656080' status='passed' stop='1560886656080'>
+            <name>returns undefined when a missing key is requested</name>
+            <title>returns undefined when a missing key is requested</title>
+            <labels>
+                <label name='host' value='HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1560886656078' status='passed' stop='1560886656080'>
+            <name>supports getting a value within object hiearchies through string dot notation</name>
+            <title>supports getting a value within object hiearchies through string dot notation</title>
+            <labels>
+                <label name='host' value='HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1560886656080' status='passed' stop='1560886656080'>
+            <name>supports handling false values</name>
+            <title>supports handling false values</title>
+            <labels>
+                <label name='host' value='HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1560886656079' status='passed' stop='1560886656080'>
+            <name>throws error when validation fails</name>
+            <title>throws error when validation fails</title>
+            <labels>
+                <label name='host' value='HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1560886656081' status='passed' stop='1560886656081'>
+            <name>supports validation against a schema</name>
+            <title>supports validation against a schema</title>
+            <labels>
+                <label name='host' value='HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1560886656083' status='passed' stop='1560886656083'>
+            <name>sets default if defined in validator</name>
+            <title>sets default if defined in validator</title>
+            <labels>
+                <label name='host' value='HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1560886656083' status='passed' stop='1560886656083'>
+            <name>supports getting a default value when a key is missing</name>
+            <title>supports getting a default value when a key is missing</title>
+            <labels>
+                <label name='host' value='HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1560886656083' status='passed' stop='1560886656084'>
+            <name>supports adding a key value mapping</name>
+            <title>supports adding a key value mapping</title>
+            <labels>
+                <label name='host' value='HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,47 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1560886654922' stop='1560886657005'>
+    <name>[HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)] createNetwork</name>
+    <title>[HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)] createNetwork</title>
+    <test-cases>
+        <test-case start='1560886654922' status='passed' stop='1560886655027'>
+            <name>doesn't try to parse the response on a beacon call</name>
+            <title>doesn't try to parse the response on a beacon call</title>
+            <labels>
+                <label name='host' value='HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1560886655027' status='passed' stop='1560886655028'>
+            <name>logs the request and response when response is expected</name>
+            <title>logs the request and response when response is expected</title>
+            <labels>
+                <label name='host' value='HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1560886655030' status='passed' stop='1560886655030'>
+            <name>allows components to handle response</name>
+            <title>allows components to handle response</title>
+            <labels>
+                <label name='host' value='HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1560886655031' status='passed' stop='1560886655031'>
+            <name>rejects the promise when response is invalid json</name>
+            <title>rejects the promise when response is invalid json</title>
+            <labels>
+                <label name='host' value='HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

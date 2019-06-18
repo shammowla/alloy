@@ -1,0 +1,87 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1560886656036' stop='1560886656915'>
+    <name>[HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)] createLogger with top-level logger</name>
+    <title>[HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)] createLogger with top-level logger</title>
+    <test-cases>
+        <test-case start='1560886656036' status='passed' stop='1560886656036'>
+            <name>does not log a message if debugging is disabled and info is called</name>
+            <title>does not log a message if debugging is disabled and info is called</title>
+            <labels>
+                <label name='host' value='HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1560886656035' status='passed' stop='1560886656036'>
+            <name>does not log a message if debugging is disabled and error is called</name>
+            <title>does not log a message if debugging is disabled and error is called</title>
+            <labels>
+                <label name='host' value='HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1560886656040' status='passed' stop='1560886656040'>
+            <name>logs message if debugging is enabled and warn is called</name>
+            <title>logs message if debugging is enabled and warn is called</title>
+            <labels>
+                <label name='host' value='HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1560886656040' status='passed' stop='1560886656040'>
+            <name>does not log a message if debugging is disabled and log is called</name>
+            <title>does not log a message if debugging is disabled and log is called</title>
+            <labels>
+                <label name='host' value='HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1560886656040' status='passed' stop='1560886656040'>
+            <name>logs message if debugging is enabled and info is called</name>
+            <title>logs message if debugging is enabled and info is called</title>
+            <labels>
+                <label name='host' value='HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1560886656039' status='passed' stop='1560886656040'>
+            <name>does not log a message if debugging is disabled and warn is called</name>
+            <title>does not log a message if debugging is disabled and warn is called</title>
+            <labels>
+                <label name='host' value='HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1560886656041' status='passed' stop='1560886656041'>
+            <name>logs message if debugging is enabled and error is called</name>
+            <title>logs message if debugging is enabled and error is called</title>
+            <labels>
+                <label name='host' value='HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1560886656043' status='passed' stop='1560886656044'>
+            <name>logs message if debugging is enabled and log is called</name>
+            <title>logs message if debugging is enabled and log is called</title>
+            <labels>
+                <label name='host' value='HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

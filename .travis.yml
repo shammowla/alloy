@@ -44,6 +44,8 @@ script:
 deploy:
   provider: surge
   project: ./test/allure/allure-report/
+  on:
+    all_branches: true
 
 notifications:
   slack:

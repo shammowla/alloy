@@ -1,0 +1,27 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1560886656016' stop='1560886656948'>
+    <name>[HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)] getTld</name>
+    <title>[HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)] getTld</title>
+    <test-cases>
+        <test-case start='1560886656016' status='passed' stop='1560886656017'>
+            <name>returns the first host that allows a cookie to be set</name>
+            <title>returns the first host that allows a cookie to be set</title>
+            <labels>
+                <label name='host' value='HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1560886656018' status='passed' stop='1560886656018'>
+            <name>returns an empty string when only one host part exists</name>
+            <title>returns an empty string when only one host part exists</title>
+            <labels>
+                <label name='host' value='HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

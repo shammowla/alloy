@@ -1,0 +1,27 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1560886656982' stop='1560886655972'>
+    <name>[HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)] isString</name>
+    <title>[HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)] isString</title>
+    <test-cases>
+        <test-case start='1560886656982' status='passed' stop='1560886656982'>
+            <name>returns true if the value is a string</name>
+            <title>returns true if the value is a string</title>
+            <labels>
+                <label name='host' value='HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1560886656982' status='passed' stop='1560886656982'>
+            <name>returns false if the value is not a string</name>
+            <title>returns false if the value is not a string</title>
+            <labels>
+                <label name='host' value='HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

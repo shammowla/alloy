@@ -1,0 +1,87 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1560886656994' stop='1560886655801'>
+    <name>[HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)] stringToBoolean</name>
+    <title>[HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)] stringToBoolean</title>
+    <test-cases>
+        <test-case start='1560886656994' status='passed' stop='1560886656994'>
+            <name>parses 'foo' as false</name>
+            <title>parses 'foo' as false</title>
+            <labels>
+                <label name='host' value='HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1560886656994' status='passed' stop='1560886656994'>
+            <name>parses '' as false</name>
+            <title>parses '' as false</title>
+            <labels>
+                <label name='host' value='HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1560886656995' status='passed' stop='1560886656995'>
+            <name>parses '0' as false</name>
+            <title>parses '0' as false</title>
+            <labels>
+                <label name='host' value='HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1560886656995' status='passed' stop='1560886656995'>
+            <name>parses 'false' as false</name>
+            <title>parses 'false' as false</title>
+            <labels>
+                <label name='host' value='HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1560886656997' status='passed' stop='1560886656998'>
+            <name>parses 'true' as true</name>
+            <title>parses 'true' as true</title>
+            <labels>
+                <label name='host' value='HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1560886656998' status='passed' stop='1560886656998'>
+            <name>parses 'True' as true</name>
+            <title>parses 'True' as true</title>
+            <labels>
+                <label name='host' value='HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1560886656998' status='passed' stop='1560886656998'>
+            <name>parses 'TRUE' as true</name>
+            <title>parses 'TRUE' as true</title>
+            <labels>
+                <label name='host' value='HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1560886656999' status='passed' stop='1560886656999'>
+            <name>parses '1' as true</name>
+            <title>parses '1' as true</title>
+            <labels>
+                <label name='host' value='HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,27 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1560886656056' stop='1560886656904'>
+    <name>[HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)] find</name>
+    <title>[HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)] find</title>
+    <test-cases>
+        <test-case start='1560886656056' status='passed' stop='1560886656057'>
+            <name>returns item if match found</name>
+            <title>returns item if match found</title>
+            <labels>
+                <label name='host' value='HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1560886656058' status='passed' stop='1560886656058'>
+            <name>returns undefined if match not found</name>
+            <title>returns undefined if match not found</title>
+            <labels>
+                <label name='host' value='HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

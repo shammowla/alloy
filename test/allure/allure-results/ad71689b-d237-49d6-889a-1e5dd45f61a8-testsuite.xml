@@ -1,0 +1,37 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1560886656973' stop='1560886656010'>
+    <name>[HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)] createNode</name>
+    <title>[HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)] createNode</title>
+    <test-cases>
+        <test-case start='1560886656973' status='passed' stop='1560886656974'>
+            <name>should createNode with tag and attrs</name>
+            <title>should createNode with tag and attrs</title>
+            <labels>
+                <label name='host' value='HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1560886656974' status='passed' stop='1560886656974'>
+            <name>should createNode with tag only</name>
+            <title>should createNode with tag only</title>
+            <labels>
+                <label name='host' value='HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1560886656974' status='passed' stop='1560886656974'>
+            <name>should createNode with tag, child</name>
+            <title>should createNode with tag, child</title>
+            <labels>
+                <label name='host' value='HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

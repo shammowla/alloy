@@ -1,0 +1,27 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1560886656048' stop='1560886656908'>
+    <name>[HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)] createComponentRegistry getCommand</name>
+    <title>[HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)] createComponentRegistry getCommand</title>
+    <test-cases>
+        <test-case start='1560886656048' status='passed' stop='1560886656049'>
+            <name>should return undefined if command does not exist</name>
+            <title>should return undefined if command does not exist</title>
+            <labels>
+                <label name='host' value='HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1560886656049' status='passed' stop='1560886656049'>
+            <name>should find the command if it exists</name>
+            <title>should find the command if it exists</title>
+            <labels>
+                <label name='host' value='HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

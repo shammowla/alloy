@@ -1,0 +1,47 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1560886655804' stop='1560886656990'>
+    <name>[HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)] isNonEmptyArray</name>
+    <title>[HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)] isNonEmptyArray</title>
+    <test-cases>
+        <test-case start='1560886655804' status='passed' stop='1560886655805'>
+            <name>returns false when non array</name>
+            <title>returns false when non array</title>
+            <labels>
+                <label name='host' value='HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1560886655806' status='passed' stop='1560886655806'>
+            <name>returns false when undefined or null</name>
+            <title>returns false when undefined or null</title>
+            <labels>
+                <label name='host' value='HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1560886655806' status='passed' stop='1560886655806'>
+            <name>returns false when array is empty</name>
+            <title>returns false when array is empty</title>
+            <labels>
+                <label name='host' value='HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1560886655807' status='passed' stop='1560886655807'>
+            <name>returns true when array with values</name>
+            <title>returns true when array with values</title>
+            <labels>
+                <label name='host' value='HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

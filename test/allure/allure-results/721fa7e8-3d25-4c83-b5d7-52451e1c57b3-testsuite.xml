@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1560886656917' stop='1560886656036'>
+    <name>[HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)] noop</name>
+    <title>[HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)] noop</title>
+    <test-cases>
+        <test-case start='1560886656917' status='passed' stop='1560886656917'>
+            <name>accepts any arguments and returns undefined</name>
+            <title>accepts any arguments and returns undefined</title>
+            <labels>
+                <label name='host' value='HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

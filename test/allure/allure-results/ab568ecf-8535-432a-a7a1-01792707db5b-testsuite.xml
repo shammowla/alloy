@@ -1,0 +1,27 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1560886656013' stop='1560886656950'>
+    <name>[HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)] Presonalization::flicker</name>
+    <title>[HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)] Presonalization::flicker</title>
+    <test-cases>
+        <test-case start='1560886656013' status='passed' stop='1560886656015'>
+            <name>should add prehiding style tags</name>
+            <title>should add prehiding style tags</title>
+            <labels>
+                <label name='host' value='HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1560886656016' status='passed' stop='1560886656016'>
+            <name>should remove prehiding style tags</name>
+            <title>should remove prehiding style tags</title>
+            <labels>
+                <label name='host' value='HeadlessChrome 76.0.3786 (Mac OS X 10.14.4)'/>
+            </labels>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
