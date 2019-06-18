@@ -35,7 +35,6 @@ script:
 - npm install
 - npm run build  
 - npm run test:saucelabs
-- npm run test
 - npm run test:report
 - npm run allure:generate
 - npm run functional
