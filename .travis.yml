@@ -34,8 +34,14 @@ before_script:
 script:
 - npm run test:saucelabs
 - npm run test
+- npm run test:report
+- npm run allure:generate
 - npm run functional
 - sonar-scanner
+
+deploy:
+  provider: surge
+  project: ./test/allure/allure-report/
 
 notifications:
   slack:

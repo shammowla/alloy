@@ -56,7 +56,7 @@ module.exports = config => {
     reporters: ["spec", "allure"],
 
     allureReport: {
-      reportDir: "test/results/allure-report/", // By default files will be save in the base dir
+      reportDir: "test/allure/allure-results/", // By default files will be save in the base dir
       useBrowserName: true // add browser name to report and classes names
     },
 
