@@ -41,10 +41,12 @@ script:
 - sonar-scanner
 
 deploy:
-  provider: surge
+  provider: azure_web_apps
   project: ./test/allure/allure-report/
   on: feature/allureTravisCI
-  domain: alloydashboard.surge.sh
+  site: alloyqe
+  slot: production
+  skip_cleanup: true
 
 notifications:
   slack:
