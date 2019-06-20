@@ -43,9 +43,8 @@ script:
 deploy:
   provider: azure_web_apps
   project: ./test/allure/allure-report/
-  on: feature/allureTravisCI
-  site: alloyqe
-  slot: production
+  all_branches: true
+  site: adobealloy
   skip_cleanup: true
 
 notifications:
