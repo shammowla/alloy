@@ -43,9 +43,9 @@ script:
 deploy:
   provider: azure_web_apps
   project: ./test/allure/allure-report/
-  all_branches: true
   site: adobealloy
-  skip_cleanup: true
+  on:
+    branch: master
 
 notifications:
   slack:
